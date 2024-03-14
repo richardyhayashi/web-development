@@ -7,7 +7,7 @@
 `css-tut-beginners`
 
 1. Start Here
-2.
+2. Selectors
 3.
 4.
 5.
