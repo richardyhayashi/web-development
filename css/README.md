@@ -8,7 +8,7 @@
 
 1. Start Here
 2. Selectors
-3.
+3. Colors
 4.
 5.
 6.
